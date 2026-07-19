@@ -22,12 +22,12 @@
     <fontSizeCaption-large>0.03125</fontSizeCaption-large>
 
     <!-- Tamanhos de fonte para títulos e textos no modo pequeno -->
-    <fontSizeH1-small>0.05625</fontSizeH1-small>
-    <fontSizeH2-small>0.04375</fontSizeH2-small>
-    <fontSizeH3-small>0.0375</fontSizeH3-small>
-    <fontSizeBody-small>0.03</fontSizeBody-small>
-    <fontSizeCaption-small>0.028125</fontSizeCaption-small>
-    
+    <fontSizeH1-small>0.04725</fontSizeH1-small>
+    <fontSizeH2-small>0.03675</fontSizeH2-small>
+    <fontSizeH3-small>0.0315</fontSizeH3-small>
+    <fontSizeBody-small>0.0252</fontSizeBody-small>
+    <fontSizeCaption-small>0.023625</fontSizeCaption-small>
+
     <!-- Caminhos para arquivos de fonte utilizados no tema -->
     <fontRegular>./assets/fonts/Inter/Inter-Regular.otf</fontRegular>
     <fontBold>./assets/fonts/Inter/Inter-Bold.otf</fontBold>
